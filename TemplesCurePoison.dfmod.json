@@ -1,0 +1,14 @@
+{
+    "ModTitle": "TemplesCurePoison",
+    "ModVersion": "1.00",
+    "ModAuthor": "Kirk.O",
+    "ContactInfo": "kirkoliveri@gmail.com",
+    "DFUnity_Version": "0.13.5",
+    "ModDescription": "The Temple 'Cure Disease' Service Now Also Cures Poisoning.",
+    "GUID": "a1fb0032-ec79-4dbe-a790-4b503f384b4c",
+    "Files": [
+        "Assets/Game/Mods/DFU-Mod_Temples-Cure-Poison/Scripts/TemplesCurePoisonMain.cs",
+        "Assets/Game/Mods/DFU-Mod_Temples-Cure-Poison/Scripts/TemplesCurePoisonWindow.cs"
+    ],
+    "Dependencies": []
+}
